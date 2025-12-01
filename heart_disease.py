@@ -29,7 +29,7 @@ st.markdown(
 
 
 heart = pd.read_csv(
-    r"C:\Users\ADMIN\Desktop\DATA SCIENCE NOTES\NOVEMBER MONTH\27TH NOV\25th, 26th- Advanced EDA project\25th, 26th- Advanced EDA project\EDA- HEALTHCARE DOMAIN\heart.csv"
+    r"C:heart.csv"
 )
 
 
@@ -486,5 +486,6 @@ These insights are the foundation for:
 
 🚀 You are now ready to move from **EDA → ML modeling** for heart disease prediction.
 """)
+
 
     st.markdown('</div>', unsafe_allow_html=True)
