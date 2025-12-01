@@ -29,7 +29,7 @@ st.markdown(
 
 
 heart = pd.read_csv(
-    r"C:heart.csv"
+    "heart.csv"
 )
 
 
@@ -489,3 +489,4 @@ These insights are the foundation for:
 
 
     st.markdown('</div>', unsafe_allow_html=True)
+
