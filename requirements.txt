@@ -3,3 +3,5 @@ numpy
 pandas
 matplotlib
 warnings
+pip==24.2
+
